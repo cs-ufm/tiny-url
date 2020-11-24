@@ -16,6 +16,7 @@
 - [ ] NO VA A CORRER USANDO  `python`, sino que usando Docker, cualquier proyecto que no entregue usando docker sera descalificado.
 - [ ] Debe proveer informacion necesaria en el  [READMEs Usage] en como correr su proyecto usando comandos de docker.
 - [ ] Cada integrante debe tener commits en el historial.
+- [ ] Video de 10 minutos maximo en donde hagan funcionar su proyecto y lo expliquen todos los integrantes del grupo.
 
 
 
